@@ -1,0 +1,17 @@
+body {
+    background-color: #EFE8D6;
+}
+
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:#331a03;
+}
+
+p {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #331a03;
+}
+
+h1.fail {
+    color: #BB4430;
+}
